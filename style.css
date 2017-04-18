@@ -1,0 +1,48 @@
+#area
+  {
+    position:relative;
+    left:37%;
+    top:10em;
+  }
+  #area #formulario
+  {
+    position:absolute;
+    display:block;   
+  }
+ 
+  #formulario label
+  {
+    position:absolute;
+	width:800px;
+	font-family:Verdana;
+  }
+  #texto{
+	  margin-top:15px;
+  }
+  #formulario input.campo_nome
+  {
+    background-color:#ffffff;
+    position:absolute;
+    left:200px;
+    top:0px;
+    width:225px;
+	height:30px;
+  }
+  #formulario input.campo_tamanho
+  { 
+    background-color:#ffffff;
+    position:absolute;
+    left:200px;
+    margin-top:30px;
+    width:225px;
+	height:30px;
+  }
+  #formulario input.campo_quantidade
+  {
+    position:absolute;
+    left:200px;
+    margin-top:60px;
+	width:225px;
+    background-color:#ffffff;
+	height:30px;
+  }
